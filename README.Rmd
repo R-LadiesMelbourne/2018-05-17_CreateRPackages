@@ -1,0 +1,19 @@
+---
+title: "R-Ladies Melbourne - Creating R pacakges"
+author: "Earo Wang"
+date: "24th May 2018"
+output:
+  github_document:
+    toc: yes
+    toc_depth: 3
+  html_document:
+    toc: yes
+    toc_depth: 3
+linkcolor: magenta
+urlcolor: magenta
+---
+
+
+You can find the material for this tutorial on Earo's github account https://github.com/earowang/rladies-pkg. 
+
+
